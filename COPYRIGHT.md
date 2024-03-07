@@ -1,0 +1,1 @@
+Copyright (c) 2024, printer_scanner <itsprinterscanner@gmail.com>
