@@ -10,6 +10,14 @@ typeface family:
   project url: https://mother-type.de/fonts/coaster-sans
   tools:
   - Glyphs
+  designed by:
+  - printer_scanner
+  writing systems: 
+  - Latin
+  published: 
+  - 2023
+  license: 
+  - SIL Open Font License, Version 1.1
   sample text:
   - en_us: The quick brown fox jumps over the lazy dog
 ...
