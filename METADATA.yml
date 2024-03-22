@@ -3,6 +3,7 @@ unified_font_repository_version: "0.3"
 unified_font_repository_url: https://github.com/raphaelbastide/Unified-Font-Repository/
 typeface_family:
   name: Coaster Sans
+  description: A new chunky display font that will make you feel like you're riding the waves back home.
   tags:
   - sans-serif
   - incomplete
@@ -20,5 +21,5 @@ typeface_family:
   license: 
   - SIL Open Font License, Version 1.1
   sample_text:
-  - en_us: The quick brown fox jumps over the lazy dog
+  - en_us: dangerous river of greed.
 ...
