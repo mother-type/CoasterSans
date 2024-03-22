@@ -1,23 +1,24 @@
 ---
-unified font repository version: "0.3"
-unified font repository url: https://github.com/raphaelbastide/Unified-Font-Repository/
-typeface family:
+unified_font_repository_version: "0.3"
+unified_font_repository_url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface_family:
   name: Coaster Sans
   tags:
   - sans-serif
   - incomplete
-  repository url: https://github.com/mother-type/CoasterSans
-  project url: https://mother-type.de/fonts/coaster-sans
+  repository_url: https://github.com/mother-type/CoasterSans
+  project_url: https://mother-type.de/fonts/coaster-sans
   tools:
   - Glyphs
-  designed by:
-  - printer_scanner
-  writing systems: 
+  designer: 
+  - name: printer_scanner
+  - url: https://printerscanner.net
+  writing_systems: 
   - Latin
   published: 
   - 2023
   license: 
   - SIL Open Font License, Version 1.1
-  sample text:
+  sample_text:
   - en_us: The quick brown fox jumps over the lazy dog
 ...
