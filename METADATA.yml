@@ -1,25 +1,25 @@
 ---
-unified_font_repository_version: "0.3"
-unified_font_repository_url: https://github.com/raphaelbastide/Unified-Font-Repository/
-typeface_family:
+unified-font-repository-version: "0.3"
+unified-font-repository-url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface-family:
   name: Coaster Sans
   description: A new chunky display font that will make you feel like you're riding the waves back home.
   tags:
   - sans-serif
   - incomplete
-  repository_url: https://github.com/mother-type/CoasterSans
-  project_url: https://mother-type.de/fonts/coaster-sans
+  repository-url: https://github.com/mother-type/CoasterSans
+  project-url: https://mother-type.de/fonts/coaster-sans
   tools:
   - Glyphs
   designer: 
   - name: printer_scanner
   - url: https://printerscanner.net
-  writing_systems: 
+  writing-systems: 
   - Latin
   published: 
   - 2023
   license: 
   - SIL Open Font License, Version 1.1
-  sample_text:
+  sample-text:
   - en_us: dangerous river of greed.
 ...
